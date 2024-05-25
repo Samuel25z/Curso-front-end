@@ -1,0 +1,21 @@
+h1{
+    color:orangered;
+    background-color: #ffcc00;
+    padding:1px;
+}
+p{
+    color:cornflowerblue;
+}
+h1,p{
+    text-align: center;
+}
+.gradient-bg {
+    background: linear-gradient(to bottom, #ffcc00, #ff9900);
+}
+.element {
+    padding: 5%;
+}
+strong{
+    color: black;
+    background-color:whitesmoke;
+}
